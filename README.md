@@ -15,7 +15,9 @@ Online viewing
 ==================
 
 Graphical notation for the data files can be viewed online at 
-[Verovio Humdrum Viewer](http://verovio.humdrum.org/?file=folk/sioux&k=e&filter=autobeam).  Here are links to display individual songs:
+[Verovio Humdrum Viewer](http://verovio.humdrum.org/?file=folk/sioux&k=e&filter=autobeam).  
+From this link you can navigate to other songs with the arrow buttons at the top of the linked page.
+Here are links to display individual songs:
 
 
 | Number  | Title 
