@@ -1,5 +1,5 @@
 !!!OTL@ENG: Buffalo Society Song (c)
-!!!ONM: No. 103
+!!!ONM: 103
 **kern
 *Imale
 *clefG2
@@ -88,6 +88,7 @@
 !!!YEC: 2002 Craig Stuart Sapp
 !!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
 !!!URL: https://raw.githubusercontent.com/craigsapp/densmore-teton-sioux/master/kern/sioux103.krn
+!!!title: @{ONM}. <i>@{OTL}</i> as sung by @{MPN@@SIO} (@MPN@ENG)
 !!!AGN: Society Song/Song of the Buffalo Society
 !!!MPN@@SIO: Oku'te
 !!!MPN@ENG: Shooter

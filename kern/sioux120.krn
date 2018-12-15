@@ -1,5 +1,5 @@
 !!!OTL@ENG: Song of the Badger Society (a)
-!!!ONM: No. 120
+!!!ONM: 120
 **kern
 *Imale
 *clefF4
@@ -79,6 +79,7 @@
 !!!YEC: 2002 Craig Stuart Sapp
 !!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
 !!!URL: https://raw.githubusercontent.com/craigsapp/densmore-teton-sioux/master/kern/sioux120.krn
+!!!title: @{ONM}. <i>@{OTL}</i> as sung by @{MPN@@SIO} (@MPN@ENG)
 !!!AGN: War Song
 !!!MPN@@SIO: Chetang'-hota
 !!!MPN@ENG: Gray Hawk

@@ -1,5 +1,5 @@
 !!!OTL@ENG: Song of Lamentation
-!!!ONM: No. 23
+!!!ONM: 23
 **kern
 *Imale
 *clefF4
@@ -111,6 +111,7 @@
 !!!YEC: 2002 Craig Stuart Sapp
 !!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
 !!!URL: https://raw.githubusercontent.com/craigsapp/densmore-teton-sioux/master/kern/sioux023.krn
+!!!title: @{ONM}. <i>@{OTL}</i> as sung by @{MPN@@SIO} (@MPN@ENG)
 !!!AGN: Ceremonial Song/Song of the Sun Dance
 !!!MPN@@SIO: Ishn'la-wicha'
 !!!MPN@ENG: Lone Man

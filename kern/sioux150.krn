@@ -1,5 +1,5 @@
 !!!OTL@ENG: Song in Honor of Onihang
-!!!ONM: No. 150
+!!!ONM: 150
 **kern
 *Imale
 *clefF4
@@ -105,6 +105,7 @@
 !!!YEC: 2002 Craig Stuart Sapp
 !!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
 !!!URL: https://raw.githubusercontent.com/craigsapp/densmore-teton-sioux/master/kern/sioux150.krn
+!!!title: @{ONM}. <i>@{OTL}</i> as sung by @{MPN@@SIO} (@MPN@ENG)
 !!!AGN: War Song/Song of a Typical War Expedition
 !!!MPN@@SIO: Shiya'ka
 !!!MPN@ENG: Teal Duck
