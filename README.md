@@ -17,6 +17,16 @@ Online viewing
 Graphical notation for the data files can be viewed online at 
 [Verovio Humdrum Viewer](http://verovio.humdrum.org/?file=folk/sioux&k=e&filter=autobeam).  
 From this link you can navigate to other songs with the arrow buttons at the top of the linked page.
+
+Viewing song no. 46 in Verovio Humdrum Viewer:
+
+<img width="1318" alt="screen shot 2018-12-15 at 4 36 14 pm" src="https://user-images.githubusercontent.com/3487289/50047626-2b62f000-0087-11e9-8d70-c468af39d78b.png">
+
+A view of the same song in the original edition, page 177:
+
+<img width="739" alt="screen shot 2018-12-15 at 4 35 38 pm" src="https://user-images.githubusercontent.com/3487289/50047628-3fa6ed00-0087-11e9-9e53-d2c922474282.png">
+
+
 Here are links to display individual songs:
 
 
