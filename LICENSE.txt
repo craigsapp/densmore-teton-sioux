@@ -1,0 +1,11 @@
+A digital edition of music from:
+*Teton Sioux Music*. Frances Densmore. Bureau of American Ethnology Bulletin 61,
+Smithsonian Institution (1918).
+================================================
+
+Copyright 2002 Craig Stuart Sapp
+https://github.com/craigsapp/densmore-teton-sioux
+
+Licensed with Attribution-NonCommercial-ShareAlike 4.0 International 
+(CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+
