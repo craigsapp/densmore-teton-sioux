@@ -286,6 +286,7 @@ Here are links to display individual songs:
 238	|	[Song Concerning Fierce Face](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux238.krn)
 239	|	[Song Concerning a Message from Washington](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux239.krn)
 240	|	[Song of the Famine](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux240.krn)
+        | 
 
 </td></tr></table>
 
