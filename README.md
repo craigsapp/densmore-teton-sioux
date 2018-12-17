@@ -6,7 +6,8 @@ This repository contains a digital edition of 245 songs from the book
 the Bureau of American Ethnology, Bulletin 61, Smithsonian Institution (1918).
 
 A scan of the original publication can be found online at:
-https://books.google.com/books?id=Adw_AAAAYAAJ
+https://archive.org/details/tetonsioux00densmore/page/n7 (color scan)
+https://books.google.com/books?id=Adw_AAAAYAAJ (black & white scan)
 
 This digital edition only encodes the music and not any lyrics to the songs.
 
