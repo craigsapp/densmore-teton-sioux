@@ -30,8 +30,12 @@ A view of the same song in the original edition, page 177:
 
 Here are links to display individual songs:
 
-<table>
-<tr><td style="vertical-align:top;">
+<style>
+td { padding:0px; }
+</style>
+
+<table style="border:0px;">
+<tr><td style="vertical-align:top !important;">
 
 | Number  | Title 
 |---------|-------
@@ -159,7 +163,7 @@ Here are links to display individual songs:
 122	|	[Ceremonial Song of the Miwatani](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux122.krn)
 
 
-</td><td style="vertical-align:top;">
+</td><td style="vertical-align:top !important;">
 
 | Number  | Title 
 |---------|-------
