@@ -161,7 +161,7 @@ Here are links to display individual songs:
 
 </td><td style="vertical-align:top !important;">
 
-<table>
+<table style="margin-bottom: 50px;">
 <tr><th> Number </th><th> Title </th></tr>
 <tr><td> 123	</td><td>	<a target="_blank" href="http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux123.krn">Song of the White Horse Riders (a)</a> </td></tr>
 <tr><td> 124	</td><td>	<a target="_blank" href="http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux124.krn">Song of the White Horse Riders (b)</a> </td></tr>
