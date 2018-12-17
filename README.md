@@ -15,8 +15,9 @@ This digital edition only encodes the music and not any lyrics to the songs.
 Online viewing
 ==================
 
-Graphical notation for the data files can be viewed online at 
-[Verovio Humdrum Viewer](http://verovio.humdrum.org/?file=folk/sioux&k=e&filter=autobeam).  
+Graphical notation for the data files can be viewed online on the
+Verovio Humdrum Viewer:
+   http://verovio.humdrum.org/?file=folk/sioux&k=e&filter=autobeam
 From this link you can navigate between songs with the arrow buttons at the top of the linked page.  Here is a view of song no. 46 in Verovio Humdrum Viewer:
 
 <img width="1318" alt="screen shot 2018-12-15 at 4 36 14 pm" src="https://user-images.githubusercontent.com/3487289/50047626-2b62f000-0087-11e9-8d70-c468af39d78b.png">
