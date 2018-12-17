@@ -157,14 +157,14 @@ Here are links to display individual songs:
 120	|	[Song of the Badger Society (a)](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux120.krn)
 121	|	[Song of the Badger Society (b)](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux121.krn)
 122	|	[Ceremonial Song of the Miwatani](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux122.krn)
-123	|	[Song of the White Horse Riders (a)](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux123.krn)
-124	|	[Song of the White Horse Riders (b)](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux124.krn)
 
 
 </td><td>
 
 | Number  | Title 
 |---------|-------
+123	|	[Song of the White Horse Riders (a)](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux123.krn)
+124	|	[Song of the White Horse Riders (b)](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux124.krn)
 125a	|	[Those Are Not My Interest](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux125a.krn)
 125b	|	[Those Are Not My Interest](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux125b.krn)
 126	|	[Like a Wolf I Roam](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux126.krn)
