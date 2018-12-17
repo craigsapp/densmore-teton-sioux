@@ -286,7 +286,7 @@ Here are links to display individual songs:
 <tr><td> 238	</td><td>	<a target="_blank" href="http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux238.krn">Song Concerning Fierce Face</a> </td></tr>
 <tr><td> 239	</td><td>	<a target="_blank" href="http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux239.krn">Song Concerning a Message from Washington</a> </td></tr>
 <tr><td> 240	</td><td>	<a target="_blank" href="http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux240.krn">Song of the Famine</a> </td></tr>
-<table>
+</table>
 
 </td></tr></table>
 
