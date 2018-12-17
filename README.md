@@ -30,6 +30,8 @@ A view of the same song in the original edition, page 177:
 
 Here are links to display individual songs:
 
+<table>
+<tr><td>
 
 | Number  | Title 
 |---------|-------
@@ -157,6 +159,12 @@ Here are links to display individual songs:
 122	|	[Ceremonial Song of the Miwatani](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux122.krn)
 123	|	[Song of the White Horse Riders (a)](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux123.krn)
 124	|	[Song of the White Horse Riders (b)](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux124.krn)
+
+
+</td><td>
+
+| Number  | Title 
+|---------|-------
 125a	|	[Those Are Not My Interest](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux125a.krn)
 125b	|	[Those Are Not My Interest](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux125b.krn)
 126	|	[Like a Wolf I Roam](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux126.krn)
@@ -279,6 +287,7 @@ Here are links to display individual songs:
 239	|	[Song Concerning a Message from Washington](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux239.krn)
 240	|	[Song of the Famine](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux240.krn)
 
+</td></tr></table>
 
 Corrections
 ================================
