@@ -296,7 +296,7 @@ Corrections
 ================================
 
 If you think that there is a mistake in the data, verify that there is a problem by viewing
-the original edition at https://books.google.com/books?id=Adw_AAAAYAAJ to verify a difference
+the original edition at https://books.google.com/books?id=Adw_AAAAYAAJ to compare
 with the digital edition.
 
 If an error is found, there are two methods for fixing it.  A simple method is to report the problem
