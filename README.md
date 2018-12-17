@@ -2,7 +2,7 @@ Teton Sioux Music
 ================================================
 
 This repository contains a digital edition of 245 songs from the book
-*Teton Sioux Music* by Frances Densmore, published by
+*Teton Sioux Music* by Frances Densmore, originally published by
 the Bureau of American Ethnology, Bulletin 61, Smithsonian Institution (1918).
 
 A scan of the original publication can be found online at:
