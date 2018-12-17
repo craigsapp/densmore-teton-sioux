@@ -31,7 +31,7 @@ A view of the same song in the original edition, page 177:
 Here are links to display individual songs:
 
 <table>
-<tr><td>
+<tr><td style="vertical-align:top;">
 
 | Number  | Title 
 |---------|-------
@@ -159,7 +159,7 @@ Here are links to display individual songs:
 122	|	[Ceremonial Song of the Miwatani](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux122.krn)
 
 
-</td><td>
+</td><td style="vertical-align:top;">
 
 | Number  | Title 
 |---------|-------
@@ -286,7 +286,6 @@ Here are links to display individual songs:
 238	|	[Song Concerning Fierce Face](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux238.krn)
 239	|	[Song Concerning a Message from Washington](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux239.krn)
 240	|	[Song of the Famine](http://verovio.humdrum.org?k=e&filter=autobeam&file=folk/sioux/sioux240.krn)
-        | 
 
 </td></tr></table>
 
